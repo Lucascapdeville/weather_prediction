@@ -1,4 +1,4 @@
-"date","location","windgustdir","windgustspeed","winddir9am","winddir3pm","windspeed9am","windspeed3pm"
+"date","location","wind_gustdir","wind_gustspeed","wind_dir9am","wind_dir3pm","wind_speed9am","wind_speed3pm"
 "2011-05-14","NorfolkIsland","WNW",50,"W","WNW",2,19
 "2011-05-14","Penrith","SW",41,"SW","SW",13,19
 "2011-05-14","Richmond","SW",41,"WSW","SW",19,22

@@ -1,4 +1,4 @@
-"date","location","windgustdir","windgustspeed","winddir9am","winddir3pm","windspeed9am","windspeed3pm"
+"date","location","wind_gustdir","wind_gustspeed","wind_dir9am","wind_dir3pm","wind_speed9am","wind_speed3pm"
 "2016-03-21","Nhil","ESE",37,"SSE","SSE",9,15
 "2016-03-21","Portland","SE",35,"ENE","E",7,20
 "2016-03-21","Watsonia","SSW",35,"E","SSE",4,11

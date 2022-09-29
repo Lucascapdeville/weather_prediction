@@ -1,4 +1,4 @@
-"date","location","windgustdir","windgustspeed","winddir9am","winddir3pm","windspeed9am","windspeed3pm"
+"date","location","wind_gustdir","wind_gustspeed","wind_dir9am","wind_dir3pm","wind_speed9am","wind_speed3pm"
 "2015-01-22","PearceRAAF","SW",37,"SSE","SW",19,24
 "2015-01-22","PerthAirport","W",37,"ESE","WSW",15,24
 "2015-01-22","Perth","SW",35,"SE","SW",13,20

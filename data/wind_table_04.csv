@@ -1,4 +1,4 @@
-"date","location","windgustdir","windgustspeed","winddir9am","winddir3pm","windspeed9am","windspeed3pm"
+"date","location","wind_gustdir","wind_gustspeed","wind_dir9am","wind_dir3pm","wind_speed9am","wind_speed3pm"
 "2012-07-31","Mildura","S",30,"S","SSW",9,20
 "2012-07-31","Portland","SE",26,"SE","SSE",7,15
 "2012-07-31","Watsonia","ESE",24,NA,"SE",0,9
